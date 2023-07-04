@@ -65,13 +65,13 @@
 "file:/github/workspace/pinterest-326fc.html":0.4426-0.4464: error: The "font" element is obsolete. Use CSS instead.
 "file:/github/workspace/pinterest-326fc.html":0.4652-0.4690: error: The "font" element is obsolete. Use CSS instead.
 "file:/github/workspace/assets/bootstrap.min.css":0.0-0.0: error: CSS: org.w3c.css.values.CssNumber cannot be cast to org.w3c.css.values.CssCalc.
-"file:/github/workspace/project-orion/chat/index.html":311.21-312.42: error: Attribute "href" not allowed on element "button" at this point.
-"file:/github/workspace/project-orion/chat/index.html":314.25-314.108: error: Element "ul" not allowed as child of element "button" in this context. (Suppressing further errors from this subtree.)
-"file:/github/workspace/project-orion/chat/index.html":315.33-315.99: error: The element "a" must not appear as a descendant of the "button" element.
-"file:/github/workspace/project-orion/chat/index.html":315.33-315.99: error: The element "a" must not appear as a descendant of an element with the attribute "role=button".
-"file:/github/workspace/project-orion/chat/index.html":316.33-316.102: error: The element "a" must not appear as a descendant of the "button" element.
-"file:/github/workspace/project-orion/chat/index.html":316.33-316.102: error: The element "a" must not appear as a descendant of an element with the attribute "role=button".
-"file:/github/workspace/project-orion/chat/index.html":317.33-317.78: error: The element "a" must not appear as a descendant of the "button" element.
-"file:/github/workspace/project-orion/chat/index.html":317.33-317.78: error: The element "a" must not appear as a descendant of an element with the attribute "role=button".
-"file:/github/workspace/css/mrepol742.css":497.30-497.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
+"file:/github/workspace/project-orion/chat/index.html":279.21-280.42: error: Attribute "href" not allowed on element "button" at this point.
+"file:/github/workspace/project-orion/chat/index.html":282.25-282.108: error: Element "ul" not allowed as child of element "button" in this context. (Suppressing further errors from this subtree.)
+"file:/github/workspace/project-orion/chat/index.html":283.33-283.99: error: The element "a" must not appear as a descendant of the "button" element.
+"file:/github/workspace/project-orion/chat/index.html":283.33-283.99: error: The element "a" must not appear as a descendant of an element with the attribute "role=button".
+"file:/github/workspace/project-orion/chat/index.html":284.33-284.102: error: The element "a" must not appear as a descendant of the "button" element.
+"file:/github/workspace/project-orion/chat/index.html":284.33-284.102: error: The element "a" must not appear as a descendant of an element with the attribute "role=button".
+"file:/github/workspace/project-orion/chat/index.html":285.33-285.78: error: The element "a" must not appear as a descendant of the "button" element.
+"file:/github/workspace/project-orion/chat/index.html":285.33-285.78: error: The element "a" must not appear as a descendant of an element with the attribute "role=button".
+"file:/github/workspace/css/mrepol742.css":560.30-560.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
 "file:/github/workspace/search/index.html":95.7-95.14: error: The "center" element is obsolete. Use CSS instead.
