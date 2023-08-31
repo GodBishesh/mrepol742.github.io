@@ -73,5 +73,5 @@
 "file:/github/workspace/webviumvpn/index.html":187.13-187.16: error: No "p" element in scope but a "p" end tag seen.
 "file:/github/workspace/webviumdev/index.html":201.13-201.16: error: No "p" element in scope but a "p" end tag seen.
 "file:/github/workspace/webviumdev/index.html":293.7-293.40: error: Duplicate ID "info".
-"file:/github/workspace/css/main.css":465.30-465.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
-"file:/github/workspace/css/search.css":431.30-431.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
+"file:/github/workspace/css/main.css":478.30-478.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
+"file:/github/workspace/css/search.css":444.30-444.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
