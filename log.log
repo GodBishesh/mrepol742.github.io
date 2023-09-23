@@ -68,7 +68,7 @@
 "file:/github/workspace/webviumdev/index.html":203.13-203.16: error: No "p" element in scope but a "p" end tag seen.
 "file:/github/workspace/webviumdev/index.html":295.7-295.40: error: Duplicate ID "info".
 "file:/github/workspace/assets/bootstrap.min.css":0.0-0.0: error: CSS: org.w3c.css.values.CssNumber cannot be cast to org.w3c.css.values.CssCalc.
-"file:/github/workspace/css/main.css":478.30-478.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
+"file:/github/workspace/css/main.css":454.30-454.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
 "file:/github/workspace/css/search.css":444.30-444.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
 "file:/github/workspace/webviumgaming/index.html":203.13-203.16: error: No "p" element in scope but a "p" end tag seen.
 "file:/github/workspace/webviumgaming/index.html":377.7-377.40: error: Duplicate ID "info".
