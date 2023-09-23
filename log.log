@@ -62,16 +62,16 @@
 "file:/github/workspace/pinterest-326fc.html":0.4183-0.4201: error: The "align" attribute on the "td" element is obsolete. Use CSS instead.
 "file:/github/workspace/pinterest-326fc.html":0.4426-0.4464: error: The "font" element is obsolete. Use CSS instead.
 "file:/github/workspace/pinterest-326fc.html":0.4652-0.4690: error: The "font" element is obsolete. Use CSS instead.
-"file:/github/workspace/webviumvpn/index.html":187.13-187.16: error: No "p" element in scope but a "p" end tag seen.
-"file:/github/workspace/webviumbeta/index.html":201.13-201.16: error: No "p" element in scope but a "p" end tag seen.
-"file:/github/workspace/webviumbeta/index.html":292.7-292.40: error: Duplicate ID "info".
-"file:/github/workspace/webviumdev/index.html":201.13-201.16: error: No "p" element in scope but a "p" end tag seen.
-"file:/github/workspace/webviumdev/index.html":293.7-293.40: error: Duplicate ID "info".
+"file:/github/workspace/webviumvpn/index.html":189.13-189.16: error: No "p" element in scope but a "p" end tag seen.
+"file:/github/workspace/webviumbeta/index.html":203.13-203.16: error: No "p" element in scope but a "p" end tag seen.
+"file:/github/workspace/webviumbeta/index.html":294.7-294.40: error: Duplicate ID "info".
+"file:/github/workspace/webviumdev/index.html":203.13-203.16: error: No "p" element in scope but a "p" end tag seen.
+"file:/github/workspace/webviumdev/index.html":295.7-295.40: error: Duplicate ID "info".
 "file:/github/workspace/assets/bootstrap.min.css":0.0-0.0: error: CSS: org.w3c.css.values.CssNumber cannot be cast to org.w3c.css.values.CssCalc.
-"file:/github/workspace/css/main.css":479.30-479.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
+"file:/github/workspace/css/main.css":478.30-478.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
 "file:/github/workspace/css/search.css":444.30-444.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
-"file:/github/workspace/webviumgaming/index.html":201.13-201.16: error: No "p" element in scope but a "p" end tag seen.
-"file:/github/workspace/webviumgaming/index.html":375.7-375.40: error: Duplicate ID "info".
-"file:/github/workspace/webvium/index.html":218.13-218.16: error: No "p" element in scope but a "p" end tag seen.
-"file:/github/workspace/webvium/index.html":412.7-412.40: error: Duplicate ID "info".
-"file:/github/workspace/search/index.html":268.7-268.57: error: Attribute "width" not allowed on element "div" at this point.
+"file:/github/workspace/webviumgaming/index.html":203.13-203.16: error: No "p" element in scope but a "p" end tag seen.
+"file:/github/workspace/webviumgaming/index.html":377.7-377.40: error: Duplicate ID "info".
+"file:/github/workspace/webvium/index.html":220.13-220.16: error: No "p" element in scope but a "p" end tag seen.
+"file:/github/workspace/webvium/index.html":414.7-414.40: error: Duplicate ID "info".
+"file:/github/workspace/search/index.html":270.7-270.57: error: Attribute "width" not allowed on element "div" at this point.
