@@ -3,6 +3,7 @@
 "file:/github/workspace/qkdq6zub0hw6o6acpoiylfrrf5e7g1.html":0.1-0.30: error: Element "head" is missing a required instance of child element "title".
 "file:/github/workspace/google022983bf0cf659ae.html":0.1-0.52: error: Non-space characters found without seeing a doctype first. Expected "<!DOCTYPE html>".
 "file:/github/workspace/google022983bf0cf659ae.html":0.1-0.52: error: Element "head" is missing a required instance of child element "title".
+"file:/github/workspace/404.html":140.9-140.12: error: No "p" element in scope but a "p" end tag seen.
 "file:/github/workspace/yandex_b229053f47e9b4b5.html":0.1-0.6: error: Start tag seen without seeing a doctype first. Expected "<!DOCTYPE html>".
 "file:/github/workspace/yandex_b229053f47e9b4b5.html":3.5-3.11: error: Element "head" is missing a required instance of child element "title".
 "file:/github/workspace/pinterest-326fc.html":0.294-0.301: error: Element "title" must not be empty.
@@ -67,8 +68,10 @@
 "file:/github/workspace/webviumbeta/index.html":294.7-294.40: error: Duplicate ID "info".
 "file:/github/workspace/webviumdev/index.html":203.13-203.16: error: No "p" element in scope but a "p" end tag seen.
 "file:/github/workspace/webviumdev/index.html":295.7-295.40: error: Duplicate ID "info".
+"file:/github/workspace/qrcode/index.html":150.15-150.18: error: No "p" element in scope but a "p" end tag seen.
 "file:/github/workspace/assets/bootstrap.min.css":0.0-0.0: error: CSS: org.w3c.css.values.CssNumber cannot be cast to org.w3c.css.values.CssCalc.
-"file:/github/workspace/css/main.css":454.30-454.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
+"file:/github/workspace/css/main.css":463.30-463.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
+"file:/github/workspace/css/main.css":582.30-582.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
 "file:/github/workspace/css/search.css":444.30-444.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
 "file:/github/workspace/webviumgaming/index.html":203.13-203.16: error: No "p" element in scope but a "p" end tag seen.
 "file:/github/workspace/webviumgaming/index.html":377.7-377.40: error: Duplicate ID "info".
