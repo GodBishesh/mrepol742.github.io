@@ -77,4 +77,4 @@
 "file:/github/workspace/webviumgaming/index.html":377.7-377.40: error: Duplicate ID "info".
 "file:/github/workspace/webvium/index.html":220.13-220.16: error: No "p" element in scope but a "p" end tag seen.
 "file:/github/workspace/webvium/index.html":414.7-414.40: error: Duplicate ID "info".
-"file:/github/workspace/search/index.html":270.7-270.57: error: Attribute "width" not allowed on element "div" at this point.
+"file:/github/workspace/search/index.html":255.7-255.57: error: Attribute "width" not allowed on element "div" at this point.
