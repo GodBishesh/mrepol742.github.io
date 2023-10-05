@@ -78,4 +78,4 @@
 "file:/github/workspace/css/main.css":589.30-589.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
 "file:/github/workspace/webviumbeta/index.html":203.13-203.16: error: No "p" element in scope but a "p" end tag seen.
 "file:/github/workspace/webviumbeta/index.html":294.7-294.40: error: Duplicate ID "info".
-"file:/github/workspace/search/index.html":255.7-255.57: error: Attribute "width" not allowed on element "div" at this point.
+"file:/github/workspace/search/index.html":268.7-268.57: error: Attribute "width" not allowed on element "div" at this point.
