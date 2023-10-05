@@ -72,10 +72,9 @@
 "file:/github/workspace/qrcode/index.html":150.15-150.18: error: No "p" element in scope but a "p" end tag seen.
 "file:/github/workspace/webviumdev/index.html":203.13-203.16: error: No "p" element in scope but a "p" end tag seen.
 "file:/github/workspace/webviumdev/index.html":295.7-295.40: error: Duplicate ID "info".
-"file:/github/workspace/css/search.css":444.30-444.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
+"file:/github/workspace/css/search.css":437.30-437.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
 "file:/github/workspace/css/main.css":114.22-114.31: error: CSS: "margin-left": "10x" is not a "margin-left" value.
 "file:/github/workspace/css/main.css":470.30-470.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
 "file:/github/workspace/css/main.css":589.30-589.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
 "file:/github/workspace/webviumbeta/index.html":203.13-203.16: error: No "p" element in scope but a "p" end tag seen.
 "file:/github/workspace/webviumbeta/index.html":294.7-294.40: error: Duplicate ID "info".
-"file:/github/workspace/search/index.html":268.7-268.57: error: Attribute "width" not allowed on element "div" at this point.
