@@ -64,12 +64,12 @@
 "file:/github/workspace/qkdq6zub0hw6o6acpoiylfrrf5e7g1.html":0.1-0.30: error: Non-space characters found without seeing a doctype first. Expected "<!DOCTYPE html>".
 "file:/github/workspace/qkdq6zub0hw6o6acpoiylfrrf5e7g1.html":0.1-0.30: error: Element "head" is missing a required instance of child element "title".
 "file:/github/workspace/assets/bootstrap.min.css":0.0-0.0: error: CSS: org.w3c.css.values.CssNumber cannot be cast to org.w3c.css.values.CssCalc.
-"file:/github/workspace/webviumvpn/index.html":187.13-187.16: error: No "p" element in scope but a "p" end tag seen.
-"file:/github/workspace/webvium/index.html":221.13-221.16: error: No "p" element in scope but a "p" end tag seen.
-"file:/github/workspace/webvium/index.html":415.7-415.40: error: Duplicate ID "info".
+"file:/github/workspace/webviumvpn/index.html":186.13-186.16: error: No "p" element in scope but a "p" end tag seen.
+"file:/github/workspace/webvium/index.html":220.13-220.16: error: No "p" element in scope but a "p" end tag seen.
+"file:/github/workspace/webvium/index.html":414.7-414.40: error: Duplicate ID "info".
 "file:/github/workspace/qrcode/index.html":150.15-150.18: error: No "p" element in scope but a "p" end tag seen.
-"file:/github/workspace/webviumdev/index.html":204.13-204.16: error: No "p" element in scope but a "p" end tag seen.
-"file:/github/workspace/webviumdev/index.html":296.7-296.40: error: Duplicate ID "info".
+"file:/github/workspace/webviumdev/index.html":203.13-203.16: error: No "p" element in scope but a "p" end tag seen.
+"file:/github/workspace/webviumdev/index.html":295.7-295.40: error: Duplicate ID "info".
 "file:/github/workspace/css/search.css":439.30-439.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
 "file:/github/workspace/css/search.css":512.22-512.31: error: CSS: "margin-left": "10x" is not a "margin-left" value.
 "file:/github/workspace/css/main.css":114.22-114.31: error: CSS: "margin-left": "10x" is not a "margin-left" value.
