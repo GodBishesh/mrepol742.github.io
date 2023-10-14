@@ -72,9 +72,9 @@
 "file:/github/workspace/webviumdev/index.html":295.7-295.40: error: Duplicate ID "info".
 "file:/github/workspace/css/search.css":439.30-439.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
 "file:/github/workspace/css/search.css":512.22-512.31: error: CSS: "margin-left": "10x" is not a "margin-left" value.
-"file:/github/workspace/css/main.css":114.22-114.31: error: CSS: "margin-left": "10x" is not a "margin-left" value.
-"file:/github/workspace/css/main.css":470.30-470.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
-"file:/github/workspace/css/main.css":589.30-589.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
+"file:/github/workspace/css/main.css":116.22-116.31: error: CSS: "margin-left": "10x" is not a "margin-left" value.
+"file:/github/workspace/css/main.css":472.30-472.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
+"file:/github/workspace/css/main.css":591.30-591.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
 "file:/github/workspace/webviumbeta/index.html":204.13-204.16: error: No "p" element in scope but a "p" end tag seen.
 "file:/github/workspace/webviumbeta/index.html":295.7-295.40: error: Duplicate ID "info".
 "file:/github/workspace/search/index.html":202.13-202.47: error: Duplicate ID "stitle".
