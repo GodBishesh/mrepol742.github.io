@@ -1,5 +1,5 @@
 "file:/usr/local/lib/python3.10/idlelib/help.html":979.5-979.42: error: Duplicate ID "cpython-language-and-version".
-"file:/github/workspace/404.html":151.9-151.12: error: No "p" element in scope but a "p" end tag seen.
+"file:/github/workspace/404.html":156.9-156.12: error: No "p" element in scope but a "p" end tag seen.
 "file:/github/workspace/pinterest-326fc.html":0.294-0.301: error: Element "title" must not be empty.
 "file:/github/workspace/pinterest-326fc.html":0.458-0.571: error: Attribute "background" not allowed on element "table" at this point.
 "file:/github/workspace/pinterest-326fc.html":0.458-0.571: error: The "cellspacing" attribute on the "table" element is obsolete. Use CSS instead.
@@ -65,11 +65,11 @@
 "file:/github/workspace/google022983bf0cf659ae.html":0.1-0.52: error: Element "head" is missing a required instance of child element "title".
 "file:/github/workspace/css/search.css":439.30-439.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
 "file:/github/workspace/css/search.css":512.22-512.31: error: CSS: "margin-left": "10x" is not a "margin-left" value.
-"file:/github/workspace/css/main.css":116.22-116.31: error: CSS: "margin-left": "10x" is not a "margin-left" value.
-"file:/github/workspace/css/main.css":472.30-472.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
-"file:/github/workspace/css/main.css":591.30-591.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
-"file:/github/workspace/webviumbeta/index.html":207.13-207.16: error: No "p" element in scope but a "p" end tag seen.
-"file:/github/workspace/webviumbeta/index.html":298.7-298.40: error: Duplicate ID "info".
+"file:/github/workspace/css/main.css":117.22-117.31: error: CSS: "margin-left": "10x" is not a "margin-left" value.
+"file:/github/workspace/css/main.css":473.30-473.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
+"file:/github/workspace/css/main.css":594.30-594.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
+"file:/github/workspace/webviumbeta/index.html":213.13-213.16: error: No "p" element in scope but a "p" end tag seen.
+"file:/github/workspace/webviumbeta/index.html":304.7-304.40: error: Duplicate ID "info".
 "file:/github/workspace/assets/bootstrap.min.css":0.0-0.0: error: CSS: org.w3c.css.values.CssNumber cannot be cast to org.w3c.css.values.CssCalc.
 "file:/github/workspace/assets/fontawesome-6.4.2/css/brands.min.css":6.2-6.5: error: CSS: Unknown pseudo-element or pseudo-class ":host"
 "file:/github/workspace/assets/fontawesome-6.4.2/css/svg-with-js.css":6.9-6.12: error: CSS: Unknown pseudo-element or pseudo-class ":host"
@@ -111,11 +111,11 @@
 "file:/github/workspace/assets/fontawesome-6.4.2/css/all.css":7905.9-7905.12: error: CSS: Unknown pseudo-element or pseudo-class ":host"
 "file:/github/workspace/assets/fontawesome-6.4.2/css/all.css":7919.9-7919.12: error: CSS: Unknown pseudo-element or pseudo-class ":host"
 "file:/github/workspace/assets/fontawesome-6.4.2/css/brands.css":6.9-6.12: error: CSS: Unknown pseudo-element or pseudo-class ":host"
-"file:/github/workspace/search/index.html":205.13-205.47: error: Duplicate ID "stitle".
-"file:/github/workspace/search/index.html":215.13-215.47: error: Duplicate ID "stitle".
-"file:/github/workspace/qrcode/index.html":153.15-153.18: error: No "p" element in scope but a "p" end tag seen.
-"file:/github/workspace/webvium/index.html":223.13-223.16: error: No "p" element in scope but a "p" end tag seen.
-"file:/github/workspace/webvium/index.html":417.7-417.40: error: Duplicate ID "info".
-"file:/github/workspace/webviumvpn/index.html":189.13-189.16: error: No "p" element in scope but a "p" end tag seen.
-"file:/github/workspace/webviumdev/index.html":206.13-206.16: error: No "p" element in scope but a "p" end tag seen.
-"file:/github/workspace/webviumdev/index.html":298.7-298.40: error: Duplicate ID "info".
+"file:/github/workspace/search/index.html":209.13-209.47: error: Duplicate ID "stitle".
+"file:/github/workspace/search/index.html":219.13-219.47: error: Duplicate ID "stitle".
+"file:/github/workspace/qrcode/index.html":159.15-159.18: error: No "p" element in scope but a "p" end tag seen.
+"file:/github/workspace/webvium/index.html":228.13-228.16: error: No "p" element in scope but a "p" end tag seen.
+"file:/github/workspace/webvium/index.html":422.7-422.40: error: Duplicate ID "info".
+"file:/github/workspace/webviumvpn/index.html":195.13-195.16: error: No "p" element in scope but a "p" end tag seen.
+"file:/github/workspace/webviumdev/index.html":212.13-212.16: error: No "p" element in scope but a "p" end tag seen.
+"file:/github/workspace/webviumdev/index.html":304.7-304.40: error: Duplicate ID "info".
