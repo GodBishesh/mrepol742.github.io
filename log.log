@@ -66,8 +66,8 @@
 "file:/github/workspace/css/search.css":439.30-439.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
 "file:/github/workspace/css/search.css":512.22-512.31: error: CSS: "margin-left": "10x" is not a "margin-left" value.
 "file:/github/workspace/css/main.css":117.22-117.31: error: CSS: "margin-left": "10x" is not a "margin-left" value.
-"file:/github/workspace/css/main.css":473.30-473.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
-"file:/github/workspace/css/main.css":594.30-594.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
+"file:/github/workspace/css/main.css":482.30-482.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
+"file:/github/workspace/css/main.css":603.30-603.30: error: CSS: "backdrop-filter": Property "backdrop-filter" doesn't exist.
 "file:/github/workspace/webviumbeta/index.html":213.13-213.16: error: No "p" element in scope but a "p" end tag seen.
 "file:/github/workspace/webviumbeta/index.html":304.7-304.40: error: Duplicate ID "info".
 "file:/github/workspace/assets/bootstrap.min.css":0.0-0.0: error: CSS: org.w3c.css.values.CssNumber cannot be cast to org.w3c.css.values.CssCalc.
